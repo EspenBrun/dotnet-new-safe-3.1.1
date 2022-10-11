@@ -168,7 +168,7 @@ NUGET
     Microsoft.AspNetCore.Authentication.JwtBearer (5.0.7)
       Microsoft.IdentityModel.Protocols.OpenIdConnect (>= 6.7.1)
     Microsoft.CSharp (4.7)
-    Microsoft.EntityFrameworkCore (6.0.9)
+    Microsoft.EntityFrameworkCore (5.0.17)
     Microsoft.EntityFrameworkCore.Design (5.0.17)
       Humanizer.Core (>= 2.8.26)
       Microsoft.CSharp (>= 4.7)
