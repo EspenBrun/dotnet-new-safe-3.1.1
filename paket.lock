@@ -167,7 +167,7 @@ NUGET
     Microsoft.AspNetCore.Authentication.JwtBearer (5.0.7)
       Microsoft.IdentityModel.Protocols.OpenIdConnect (>= 6.7.1)
     Microsoft.CSharp (4.7)
-    Microsoft.EntityFrameworkCore.Design (6.0.9)
+    Microsoft.EntityFrameworkCore.Design (5.0.17)
     Microsoft.IdentityModel.JsonWebTokens (6.11.1)
       Microsoft.IdentityModel.Tokens (>= 6.11.1)
     Microsoft.IdentityModel.Logging (6.11.1)
