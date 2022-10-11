@@ -25,6 +25,12 @@
       "commands": [
         "femto"
       ]
+    },
+    "dotnet-ef": {
+      "version": "5.0.17",
+      "commands": [
+        "dotnet-ef"
+      ]
     }
   }
 }
