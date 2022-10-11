@@ -4,6 +4,7 @@ storage: none
 
 nuget EntityFrameworkCore.FSharp 5.0.3
 nuget Fable.Remoting.Giraffe
+nuget Pomelo.EntityFrameworkCore.MySql 5.0.4
 nuget Saturn
 nuget Expecto
 
